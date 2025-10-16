@@ -1,0 +1,15 @@
+{
+  "name": "Cantära Prompt Pad",
+  "short_name": "Cantära",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#111315",
+  "theme_color": "#111315",
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3a4.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    }
+  ]
+}
